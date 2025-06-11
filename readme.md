@@ -17,3 +17,7 @@
 #### Прошедшее
 
 - [Past Simple/Прошедшее простое время](./docs/grammar/verb_tenses/104_past_simple.md)
+
+## Слова
+
+- [A](./docs/words/a.md)

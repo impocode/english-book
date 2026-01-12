@@ -18,6 +18,7 @@
 
 - [Past Simple/Прошедшее простое время](./docs/grammar/verb_tenses/104_past_simple.md)
 - [Past Continuous/Прошедшее длительное время](./docs/grammar/verb_tenses/105_past_continuous.md)
+- [Past Perfect/Прошедшее завершенное время](./docs/grammar/verb_tenses/106_past_perfect.md)
 
 ## Слова
 
